@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  dCode "rot13"   
+dCode -R "rot13"   
