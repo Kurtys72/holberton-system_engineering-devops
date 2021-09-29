@@ -1,2 +1,2 @@
 #!/bin/bash
-printf 'Chiffre ROOT-13'
+echo 'Chiffre ROOT-13'
