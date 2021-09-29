@@ -1,2 +1,2 @@
-#!/ova/onfu
-'Chiffre ROOT-13'
+#!/bin/bash
+printf 'Chiffre ROOT-13'
