@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Chiffre ROT-13" 
+dCode "ROT-13" 
